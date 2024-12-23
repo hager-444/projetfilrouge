@@ -71,10 +71,10 @@ form button:hover {
 
 .image-below-button {
     display: block; 
-    margin-top: -10px; /* Ajuste l'espace pour placer l'image sous le bouton */
+    margin-top: -10px; 
     margin-left: auto; 
     margin-right: auto; 
-    width: 300px; /* Taille ajustée de l'image */
+    width: 300px; 
 }
 
 section {
